@@ -1,5 +1,6 @@
 # DSA-Pathfinding-Algorithms
 Interactive C++ project demonstrating maze generation and pathfinding algorithms (BFS, DFS, Dijkstra, A*) with visualization and interactive input.
+
 # Interactive Maze & Pathfinding Algorithms in C++
 
 An interactive C++ project demonstrating **maze generation** and **pathfinding algorithms** (BFS, DFS, Dijkstra, A*) with visualization and performance tracking. This project highlights DSA concepts and modern C++17 features.
@@ -36,5 +37,5 @@ An interactive C++ project demonstrating **maze generation** and **pathfinding a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/InteractiveMazeSolver.git
+git clone https://github.com/phophaliakhushdeep0291-ux/InteractiveMazeSolver.git
 cd InteractiveMazeSolver
